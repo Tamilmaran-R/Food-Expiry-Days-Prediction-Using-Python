@@ -211,7 +211,4 @@ Evaluation (MAE, MSE, R²)
 
 ---
 
-## 📜 License
-
-This project is licensed under **MIT License**.
 
